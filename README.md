@@ -1,0 +1,2 @@
+# Python-dijkstra-bankers-algorithm
+:sparkles: O algoritmo do banqueiro é uma alocação de recursos e algoritmo de prevenção de deadlock desenvolvido por Edsger Dijkstra que testa a segurança simulando a alocação de quantidades máximas possíveis predeterminadas de todos os recursos e, em seguida, faz uma verificação de "estado s" para testar possíveis condições de deadlock para todos outras atividades pendentes, antes de decidir se a alocação deve ser permitida para continuar
